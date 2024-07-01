@@ -4,14 +4,6 @@
 #include <ctime>
 #include <string>
 using namespace std;
-
-// "Group Members                   ID",
-// "Nebil Rahmeto               UGR/25275/14",
-// "Tekliye Tamiru              UGR/25614/14",
-// "Mohammed Kasim              UGR/25433/14",
-// "Abraham Yitbarek			UGR/26544/14"
-
-
 const int WIDTH = 800;
 const int HEIGHT = 600;
 const int GRID_SIZE = 20;
